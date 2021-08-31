@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="schoolManagementModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="family_members">
+    <Key>
+      <PropertyRef Name="family_member_id" />
+    </Key>
+    <Property Name="family_member_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="family_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="parent_or_student_member" Type="nvarchar" MaxLength="100" />
+    <Property Name="parent_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="LoginInfo">
+    <Key>
+      <PropertyRef Name="login_id" />
+    </Key>
+    <Property Name="login_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="username" Type="nvarchar" MaxLength="100" />
+    <Property Name="date_of_birth" Type="nvarchar" MaxLength="10" />
+    <Property Name="email" Type="nvarchar" MaxLength="100" />
+    <Property Name="mobileNo" Type="nvarchar" MaxLength="12" />
+    <Property Name="password" Type="nvarchar" MaxLength="8" />
+    <Property Name="confirm_password" Type="nvarchar" MaxLength="8" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="parent_addresses">
+    <Key>
+      <PropertyRef Name="parent_id" />
+    </Key>
+    <Property Name="parent_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_parent_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="parents">
+    <Key>
+      <PropertyRef Name="parent_id" />
+    </Key>
+    <Property Name="parent_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_parent_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="reports">
+    <Key>
+      <PropertyRef Name="report_id" />
+    </Key>
+    <Property Name="report_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="date_created" Type="nvarchar" MaxLength="50" />
+    <Property Name="report_content" Type="nvarchar" MaxLength="100" />
+    <Property Name="teacher_comments" Type="nvarchar" MaxLength="150" />
+    <Property Name="other_report_details" Type="nvarchar" MaxLength="200" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="schoolAddresses">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="address_detail" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="schools">
+    <Key>
+      <PropertyRef Name="school_id" />
+    </Key>
+    <Property Name="school_id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="address_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="school_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="school_principal" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_school_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="student_addresses">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="address_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="date_from" Type="nvarchar" MaxLength="50" />
+    <Property Name="address_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="student_classes">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="class_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="date_from" Type="nvarchar" MaxLength="20" />
+    <Property Name="date_to" Type="nvarchar" MaxLength="20" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="student_families">
+    <Key>
+      <PropertyRef Name="family_id" />
+    </Key>
+    <Property Name="family_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="head_of_family_parent_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="family_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="student_parents">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="parent_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="studentClasses">
+    <Key>
+      <PropertyRef Name="class_id" />
+    </Key>
+    <Property Name="class_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="subject_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="teacher_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="class_code" Type="nvarchar" MaxLength="20" />
+    <Property Name="class_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="date_from" Type="nvarchar" MaxLength="20" />
+    <Property Name="date_to" Type="nvarchar" MaxLength="20" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="stream" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="studentHomework">
+    <Key>
+      <PropertyRef Name="homework_id" />
+    </Key>
+    <Property Name="homework_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="date_created" Type="nvarchar" MaxLength="20" />
+    <Property Name="homework_content" Type="nvarchar" MaxLength="100" />
+    <Property Name="grade" Type="nvarchar" MaxLength="10" />
+    <Property Name="other_homework_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="students">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="date_of_birth" Type="nvarchar" MaxLength="20" />
+    <Property Name="other_student_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="class_code" Type="nvarchar" MaxLength="20" />
+    <Property Name="address" Type="nvarchar" MaxLength="20" />
+    <Property Name="father_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="mother_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="admission_on" Type="nvarchar" MaxLength="50" />
+    <Property Name="school_name" Type="nvarchar" MaxLength="200" />
+    <Property Name="mobile_no" Type="nvarchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="subjects">
+    <Key>
+      <PropertyRef Name="subject_id" />
+    </Key>
+    <Property Name="subject_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="subject_name" Type="nvarchar" MaxLength="150" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="teachers">
+    <Key>
+      <PropertyRef Name="teacher_id" />
+    </Key>
+    <Property Name="teacher_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="school_id" Type="nvarchar" MaxLength="50" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_teacher_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="schoolManagementModel1StoreContainer">
+    <EntitySet Name="family_members" EntityType="Self.family_members" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LoginInfo" EntityType="Self.LoginInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="parent_addresses" EntityType="Self.parent_addresses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="parents" EntityType="Self.parents" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="reports" EntityType="Self.reports" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="schoolAddresses" EntityType="Self.schoolAddresses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="schools" EntityType="Self.schools" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student_addresses" EntityType="Self.student_addresses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student_classes" EntityType="Self.student_classes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student_families" EntityType="Self.student_families" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student_parents" EntityType="Self.student_parents" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="studentClasses" EntityType="Self.studentClasses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="studentHomework" EntityType="Self.studentHomework" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="students" EntityType="Self.students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="subjects" EntityType="Self.subjects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="teachers" EntityType="Self.teachers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

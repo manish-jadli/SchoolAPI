@@ -1,0 +1,674 @@
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojResolveAssemblyReference.cache
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojResolveAssemblyReference.cache
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll.config
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+E:\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojAssemblyReference.cache
+E:\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csproj.CoreCompileInputs.cache
+E:\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csproj.CopyComplete
+E:\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+E:\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll.config
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojAssemblyReference.cache
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csproj.CoreCompileInputs.cache
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csproj.CopyComplete
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+E:\soft\school\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojResolveAssemblyReference.cache
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojResolveAssemblyReference.cache
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csprojAssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\ApplicationInsights.config
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\csc.exe
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\vbc.exe
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll.config
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\schoolManagementAPI.pdb
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Owin.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Cors.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\WebGrease.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.pdb
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\DataAccess.dll.config
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.Web.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Cors.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Newtonsoft.Json.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Helpers.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Mvc.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Optimization.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Razor.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Antlr3.Runtime.pdb
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\bin\System.Web.Http.Owin.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.csproj.CopyComplete
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\schoolManagementAPI\obj\Debug\schoolManagementAPI.pdb

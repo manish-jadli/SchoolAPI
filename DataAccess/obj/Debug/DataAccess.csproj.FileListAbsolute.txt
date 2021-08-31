@@ -1,0 +1,138 @@
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\Manish Jadli\Desktop\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Manish Jadli\Desktop\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+E:\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+E:\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+E:\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+E:\soft\school\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+E:\soft\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\soft\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\soft\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\soft\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+E:\soft\school\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb
+E:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+F:\atlassionProject\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Cors.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\manis\OneDrive\Desktop\schoolProject\schoolManagementAPI\DataAccess\obj\Debug\DataAccess.pdb

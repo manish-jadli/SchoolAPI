@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="schoolManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'schoolManagement.dbo.parents' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="parents">
+    <Key>
+      <PropertyRef Name="parent_id" />
+    </Key>
+    <Property Name="parent_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_parent_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="reports">
+    <Key>
+      <PropertyRef Name="report_id" />
+    </Key>
+    <Property Name="report_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="date_created" Type="nvarchar" MaxLength="50" />
+    <Property Name="report_content" Type="nvarchar" MaxLength="100" />
+    <Property Name="teacher_comments" Type="nvarchar" MaxLength="150" />
+    <Property Name="other_report_details" Type="nvarchar" MaxLength="200" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="schoolAddresses">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="address_detail" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="schools">
+    <Key>
+      <PropertyRef Name="school_id" />
+    </Key>
+    <Property Name="school_id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="address_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="school_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="school_principal" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_school_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="student_addresses">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="address_id" Type="nvarchar" MaxLength="100" />
+    <Property Name="date_from" Type="nvarchar" MaxLength="50" />
+    <Property Name="address_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="student_classes">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="class_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="date_from" Type="nvarchar" MaxLength="20" />
+    <Property Name="date_to" Type="nvarchar" MaxLength="20" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'schoolManagement.dbo.student_fees' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="student_fees">
+          <Property Name="student_id" Type="varchar" MaxLength="20" />
+          <Property Name="first_name" Type="varchar" MaxLength="50" />
+          <Property Name="middle_name" Type="varchar" MaxLength="50" />
+          <Property Name="last_name" Type="varchar" MaxLength="50" />
+          <Property Name="gender" Type="varchar" MaxLength="10" />
+          <Property Name="class" Type="varchar" MaxLength="100" />
+          <Property Name="subject" Type="varchar" MaxLength="200" />
+          <Property Name="payment_mode" Type="varchar" MaxLength="30" />
+          <Property Name="fees" Type="varchar" MaxLength="20" />
+          <Property Name="tution_fee" Type="varchar" MaxLength="10" />
+          <Property Name="library_fee" Type="varchar" MaxLength="10" />
+          <Property Name="games_fee" Type="varchar" MaxLength="10" />
+          <Property Name="panelties_fee" Type="varchar" MaxLength="10" />
+          <Property Name="other_fee" Type="varchar" MaxLength="10" />
+          <Property Name="IsActive" Type="varchar" MaxLength="10" />
+        </EntityType>-->
+  <EntityType Name="students">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="date_of_birth" Type="nvarchar" MaxLength="20" />
+    <Property Name="other_student_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="class_code" Type="nvarchar" MaxLength="20" />
+    <Property Name="address" Type="nvarchar" MaxLength="20" />
+    <Property Name="father_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="mother_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="admission_on" Type="nvarchar" MaxLength="50" />
+    <Property Name="school_name" Type="nvarchar" MaxLength="200" />
+    <Property Name="mobile_no" Type="nvarchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="subjects">
+    <Key>
+      <PropertyRef Name="subject_id" />
+    </Key>
+    <Property Name="subject_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="subject_name" Type="nvarchar" MaxLength="150" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="teachers">
+    <Key>
+      <PropertyRef Name="teacher_id" />
+    </Key>
+    <Property Name="teacher_id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="school_id" Type="nvarchar" MaxLength="50" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="middle_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="other_teacher_details" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="schoolManagementModelStoreContainer">
+    <EntitySet Name="reports" EntityType="Self.reports" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="schoolAddresses" EntityType="Self.schoolAddresses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="schools" EntityType="Self.schools" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student_addresses" EntityType="Self.student_addresses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student_classes" EntityType="Self.student_classes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="students" EntityType="Self.students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="subjects" EntityType="Self.subjects" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="teachers" EntityType="Self.teachers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="parents" EntityType="Self.parents" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [parents].[parent_id] AS [parent_id], 
+    [parents].[gender] AS [gender], 
+    [parents].[first_name] AS [first_name], 
+    [parents].[middle_name] AS [middle_name], 
+    [parents].[last_name] AS [last_name], 
+    [parents].[other_parent_details] AS [other_parent_details], 
+    [parents].[IsActive] AS [IsActive]
+    FROM [dbo].[parents] AS [parents]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

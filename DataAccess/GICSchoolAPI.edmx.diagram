@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="621c668242754b73ad966996ddb533f7" Name="Diagram1" ZoomLevel="88">
+        <EntityTypeShape EntityType="schoolManagementModel.class" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.family_members" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.homework" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.parent" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.report" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.stdent_families" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.student_addresses" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.student_parents" Width="1.5" PointX="6.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.subject" Width="1.5" PointX="8.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.teacher" Width="1.5" PointX="8.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="schoolManagementModel.student" Width="1.5" PointX="11.375" PointY="6.75" />
+        <EntityTypeShape EntityType="schoolManagementModel.address" Width="1.5" PointX="9.75" PointY="0.75" />
+        <EntityTypeShape EntityType="schoolManagementModel.school_addresses" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="schoolManagementModel.parent_addresses" Width="1.5" PointX="11.375" PointY="3.75" />
+        <EntityTypeShape EntityType="schoolManagementModel.school" Width="1.5" PointX="3.375" PointY="10.75" />
+        <EntityTypeShape EntityType="schoolManagementModel.student_classes" Width="1.5" PointX="5.375" PointY="10.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

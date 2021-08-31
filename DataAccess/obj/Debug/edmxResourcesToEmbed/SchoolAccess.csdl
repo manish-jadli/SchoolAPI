@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="schoolManagementModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="parent">
+    <Key>
+      <PropertyRef Name="parent_id" />
+    </Key>
+    <Property Name="parent_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="gender" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="first_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="middle_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="last_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="other_parent_details" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="report">
+    <Key>
+      <PropertyRef Name="report_id" />
+    </Key>
+    <Property Name="report_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="student_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="date_created" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="report_content" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="teacher_comments" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="other_report_details" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="schoolAddress">
+    <Key>
+      <PropertyRef Name="address_id" />
+    </Key>
+    <Property Name="address_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="address_detail" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="school">
+    <Key>
+      <PropertyRef Name="school_id" />
+    </Key>
+    <Property Name="school_id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="address_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="school_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="school_principal" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="other_school_details" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="student_addresses">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="address_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="date_from" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="address_details" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="student_classes">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="class_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="date_from" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="date_to" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="student">
+    <Key>
+      <PropertyRef Name="student_id" />
+    </Key>
+    <Property Name="student_id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="gender" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="first_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="middle_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="last_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="date_of_birth" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="other_student_details" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="class_code" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="address" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="father_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="mother_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="admission_on" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="school_name" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="mobile_no" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="subject">
+    <Key>
+      <PropertyRef Name="subject_id" />
+    </Key>
+    <Property Name="subject_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="subject_name" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="teacher">
+    <Key>
+      <PropertyRef Name="teacher_id" />
+    </Key>
+    <Property Name="teacher_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="school_id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="gender" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="first_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="middle_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="last_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="other_teacher_details" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="schoolManagementEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="parents" EntityType="Self.parent" />
+    <EntitySet Name="reports" EntityType="Self.report" />
+    <EntitySet Name="schoolAddresses" EntityType="Self.schoolAddress" />
+    <EntitySet Name="schools" EntityType="Self.school" />
+    <EntitySet Name="student_addresses" EntityType="Self.student_addresses" />
+    <EntitySet Name="student_classes" EntityType="Self.student_classes" />
+    <EntitySet Name="students" EntityType="Self.student" />
+    <EntitySet Name="subjects" EntityType="Self.subject" />
+    <EntitySet Name="teachers" EntityType="Self.teacher" />
+  </EntityContainer>
+</Schema>

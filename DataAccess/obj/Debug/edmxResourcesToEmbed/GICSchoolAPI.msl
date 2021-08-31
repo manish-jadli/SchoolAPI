@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="schoolManagementModelStoreContainer" CdmEntityContainer="schoolManagementEntities2">
+    <EntitySetMapping Name="classes">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.class)">
+        <MappingFragment StoreEntitySet="classes">
+          <ScalarProperty Name="class_id" ColumnName="class_id" />
+          <ScalarProperty Name="subject_id" ColumnName="subject_id" />
+          <ScalarProperty Name="teacher_id" ColumnName="teacher_id" />
+          <ScalarProperty Name="class_code" ColumnName="class_code" />
+          <ScalarProperty Name="class_name" ColumnName="class_name" />
+          <ScalarProperty Name="date_from" ColumnName="date_from" />
+          <ScalarProperty Name="date_to" ColumnName="date_to" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="family_members">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.family_members)">
+        <MappingFragment StoreEntitySet="family_members">
+          <ScalarProperty Name="family_member_id" ColumnName="family_member_id" />
+          <ScalarProperty Name="family_id" ColumnName="family_id" />
+          <ScalarProperty Name="parent_or_student_member" ColumnName="parent_or_student_member" />
+          <ScalarProperty Name="parent_id" ColumnName="parent_id" />
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="homework">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.homework)">
+        <MappingFragment StoreEntitySet="homework">
+          <ScalarProperty Name="homework_id" ColumnName="homework_id" />
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="date_created" ColumnName="date_created" />
+          <ScalarProperty Name="homework_content" ColumnName="homework_content" />
+          <ScalarProperty Name="grade" ColumnName="grade" />
+          <ScalarProperty Name="other_homework_details" ColumnName="other_homework_details" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="parents">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.parent)">
+        <MappingFragment StoreEntitySet="parents">
+          <ScalarProperty Name="parent_id" ColumnName="parent_id" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="middle_name" ColumnName="middle_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="other_parent_details" ColumnName="other_parent_details" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="reports">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.report)">
+        <MappingFragment StoreEntitySet="reports">
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="middle_name" ColumnName="middle_name" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="report_id" ColumnName="report_id" />
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="date_created" ColumnName="date_created" />
+          <ScalarProperty Name="report_content" ColumnName="report_content" />
+          <ScalarProperty Name="teacher_comments" ColumnName="teacher_comments" />
+          <ScalarProperty Name="other_report_details" ColumnName="other_report_details" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stdent_families">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.stdent_families)">
+        <MappingFragment StoreEntitySet="stdent_families">
+          <ScalarProperty Name="family_id" ColumnName="family_id" />
+          <ScalarProperty Name="head_of_family_parent_id" ColumnName="head_of_family_parent_id" />
+          <ScalarProperty Name="family_name" ColumnName="family_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student_addresses">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.student_addresses)">
+        <MappingFragment StoreEntitySet="student_addresses">
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+          <ScalarProperty Name="date_from" ColumnName="date_from" />
+          <ScalarProperty Name="address_details" ColumnName="address_details" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student_parents">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.student_parents)">
+        <MappingFragment StoreEntitySet="student_parents">
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+          <ScalarProperty Name="parent_id" ColumnName="parent_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="subjects">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.subject)">
+        <MappingFragment StoreEntitySet="subjects">
+          <ScalarProperty Name="subject_id" ColumnName="subject_id" />
+          <ScalarProperty Name="subject_name" ColumnName="subject_name" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="teachers">
+      <EntityTypeMapping TypeName="IsTypeOf(schoolManagementModel.teacher)">
+        <MappingFragment StoreEntitySet="teachers">
+          <ScalarProperty Name="teacher_id" ColumnName="teacher_id" />
+          <ScalarProperty Name="school_id" ColumnName="school_id" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="middle_name" ColumnName="middle_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="other_teacher_details" ColumnName="other_teacher_details" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="schoolManagementModel.student">
+        <MappingFragment StoreEntitySet="students">
+          <ScalarProperty Name="mobile_no" ColumnName="mobile_no" />
+          <ScalarProperty Name="school_name" ColumnName="school_name" />
+          <ScalarProperty Name="admission_on" ColumnName="admission_on" />
+          <ScalarProperty Name="mother_name" ColumnName="mother_name" />
+          <ScalarProperty Name="father_name" ColumnName="father_name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="class_code" ColumnName="class_code" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="other_student_details" ColumnName="other_student_details" />
+          <ScalarProperty Name="date_of_birth" ColumnName="date_of_birth" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="middle_name" ColumnName="middle_name" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="addresses">
+      <EntityTypeMapping TypeName="schoolManagementModel.address">
+        <MappingFragment StoreEntitySet="addresses">
+          <ScalarProperty Name="address_detail" ColumnName="address_detail" />
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="school_addresses">
+      <EntityTypeMapping TypeName="schoolManagementModel.school_addresses">
+        <MappingFragment StoreEntitySet="school_addresses">
+          <ScalarProperty Name="school_address" ColumnName="school_address" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="school_name" ColumnName="school_name" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="address_detail" ColumnName="address_detail" />
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="parent_addresses">
+      <EntityTypeMapping TypeName="schoolManagementModel.parent_addresses">
+        <MappingFragment StoreEntitySet="parent_addresses">
+          <ScalarProperty Name="other_parent_details" ColumnName="other_parent_details" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="middle_name" ColumnName="middle_name" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="parent_id" ColumnName="parent_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="schools">
+      <EntityTypeMapping TypeName="schoolManagementModel.school">
+        <MappingFragment StoreEntitySet="schools">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="other_school_details" ColumnName="other_school_details" />
+          <ScalarProperty Name="school_principal" ColumnName="school_principal" />
+          <ScalarProperty Name="school_name" ColumnName="school_name" />
+          <ScalarProperty Name="address_id" ColumnName="address_id" />
+          <ScalarProperty Name="school_id" ColumnName="school_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="student_classes">
+      <EntityTypeMapping TypeName="schoolManagementModel.student_classes">
+        <MappingFragment StoreEntitySet="student_classes">
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="date_to" ColumnName="date_to" />
+          <ScalarProperty Name="date_from" ColumnName="date_from" />
+          <ScalarProperty Name="class_id" ColumnName="class_id" />
+          <ScalarProperty Name="student_id" ColumnName="student_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
